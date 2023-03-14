@@ -6,6 +6,6 @@ namespace ConsoleApp_nmarti
 {
     class Class1
     {
-
+        //aloaloanikola
     }
 }
