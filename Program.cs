@@ -6,7 +6,8 @@ namespace ConsoleApp_nmarti
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello !");
+            Console.WriteLine("Hello nidžo!");
+            //bvb
         }
     }
 }
